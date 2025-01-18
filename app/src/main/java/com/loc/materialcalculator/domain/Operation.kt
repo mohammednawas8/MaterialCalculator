@@ -1,7 +1,7 @@
 package com.loc.materialcalculator.domain
 
 enum class Operation(val symbol: Char) {
-    Add('+'),
+    ADD('+'),
     SUBTRACT('-'),
     MULTIPLY('*'),
     DIVIDE('/'),
