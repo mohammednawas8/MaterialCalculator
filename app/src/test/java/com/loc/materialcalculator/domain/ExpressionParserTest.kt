@@ -15,7 +15,7 @@ class ExpressionParserTest {
 
         val expected = listOf(
             ExpressionPart.Number(3.0),
-            ExpressionPart.Op(Operation.Add),
+            ExpressionPart.Op(Operation.ADD),
             ExpressionPart.Number(5.0),
             ExpressionPart.Op(Operation.SUBTRACT),
             ExpressionPart.Number(3.0),
