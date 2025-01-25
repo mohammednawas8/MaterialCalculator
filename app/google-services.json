@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607118989729",
+    "project_id": "materialcalcualtor",
+    "storage_bucket": "materialcalcualtor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607118989729:android:dd1caf80ba8c4597bb93e0",
+        "android_client_info": {
+          "package_name": "com.loc.materialcalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYg2ngCAYGZJRpenbIvccCYpQZjuxi4cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
